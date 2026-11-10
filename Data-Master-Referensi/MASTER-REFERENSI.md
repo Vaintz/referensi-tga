@@ -24,7 +24,7 @@ Dokumen ini menjadi indeks utama seluruh publikasi yang digunakan dalam penyusun
 Pembacaan awal tersedia pada laporan tahap 1, khususnya tentang pengaruh tata letak gedung, pintu/tangga, kepanikan, pengetahuan penghuni, dan kepadatan.
 
 ### 2.2 Simulasi dan Pemodelan Pergerakan Penghuni
-Pembacaan awal tersedia pada laporan tahap 1, dengan contoh ABM dan CA untuk merepresentasikan penghuni serta perilakunya.
+Pembacaan tersedia pada laporan tahap 1 dan tahap 5. Contoh yang dibaca meliputi ABM, CA, representasi grid, static/dynamic floor field, dan perilaku penghuni.
 
 ### 2.3 Teori Graf dan Pemodelan Lingkungan Evakuasi
 Pembacaan tersedia pada laporan tahap 2. Sharma et al. membahas adjacency matrix/list/edge list; Jaeger membahas graf beratribut dan multi-relasional; Jiawei et al. membahas agregasi multi-hop pada GraphSAGE++.
@@ -45,10 +45,10 @@ Pembacaan tersedia pada laporan tahap 4. Darmawan et al. dan Machmudi et al. mem
 Pembacaan tersedia pada laporan tahap 4. Darvariu et al. membedakan optimasi struktur graf dan optimasi proses pada graf tetap; Nie et al. mengulas integrasi RL dan graph mining; Gao et al. memberi contoh GCN dengan Q-learning untuk pengambilan keputusan lalu lintas, tetapi PDF lengkap belum dibaca utuh.
 
 ### 2.9 Evaluasi Kinerja Evakuasi
-Belum disusun.
+Pembacaan awal tersedia pada laporan tahap 5. Marliza dan Ahmad melaporkan waktu evakuasi simulasi normal/panik serta menggunakan kepadatan dan probabilitas transisi. Muttaqien et al. merupakan tinjauan ABM/AnyLogic yang membahas waktu, kepadatan, bottleneck, aksesibilitas, pintu, tangga, dan hambatan. Metrik final dan rumusnya tetap harus ditetapkan pada BAB III.
 
 ### 2.10 Penelitian Terdahulu
-Belum disusun.
+Pembacaan dan seleksi awal tersedia pada laporan tahap 5 serta laporan tahap 1–4. Prioritaskan studi empiris/simulasi yang menyebut objek, metode, skenario, dan hasil terukur. Artikel review dapat dipakai sebagai pendukung, bukan diperlakukan sebagai eksperimen primer.
 
 ## Log Verifikasi
 | Tanggal | ID referensi | Bagian yang diperiksa | Hasil/masalah |
@@ -64,6 +64,8 @@ Belum disusun.
 | 10 November 2026 | Darvariu2024 | PDF TMLR, 46 halaman | Membahas graph process optimization pada graf tetap, termasuk routing dan navigation. |
 | 10 November 2026 | Nie2023 | Preprint arXiv v4, 22 halaman; metadata versi jurnal | Versi jurnal IEEE TETCI Vol. 7 No. 4, pp. 1065–1082, 2023. |
 | 10 November 2026 | Gao2022 | Abstrak, metode, hasil, tabel dan kesimpulan yang terindeks pada halaman penerbit | PDF lengkap belum diperiksa utuh; status dibaca sebagian. |
+| 10 November 2026 | Marliza2024 | PDF penerbit, 9 halaman | 50 pedestrian; waktu simulasi normal 42 detik dan panik 68 detik. Parameter panik dalam eksperimen paper berbeda dari parameter panik studi Mu’arifin yang dikutip. |
+| 10 November 2026 | Muttaqien2024 | PDF penerbit, 10 halaman | Artikel menggunakan metode journal review, bukan eksperimen evakuasi baru. Header PDF menyebut Vol. 2 No. 2, sedangkan metadata OJS menyebut Vol. 3 No. 2. |
 
 ## Catatan Pembacaan
 
@@ -71,10 +73,11 @@ Belum disusun.
 - [Laporan pembacaan tahap 2](./PEMBACAAN-REFERENSI-TAHAP-2.md).
 - [Laporan pembacaan tahap 3](./PEMBACAAN-REFERENSI-TAHAP-3.md).
 - [Laporan pembacaan tahap 4](./PEMBACAAN-REFERENSI-TAHAP-4.md).
+- [Laporan pembacaan tahap 5](./PEMBACAAN-REFERENSI-TAHAP-5.md).
 
-**Status keseluruhan berdasarkan pemeriksaan sampai tahap 4:**
+**Status keseluruhan berdasarkan pemeriksaan sampai tahap 5:**
 - Total PDF terinventarisasi di repository: 30.
-- Dibaca penuh/isi utama: 15 publikasi.
+- Dibaca penuh/isi utama: 17 publikasi.
 - Dibaca sebagian: 3 publikasi (Rizian et al. 2026; Wang et al. 2024; Gao et al. 2022).
-- Belum dibaca: 12 publikasi.
-- Tahap 4 mencakup 2.6 Reinforcement Learning, 2.7 Proximal Policy Optimization, dan 2.8 Graph Reinforcement Learning.
+- Belum dibaca: 10 publikasi.
+- Tahap 5 mencakup dua referensi pendukung terkait simulasi evakuasi dan evaluasi jalur.
