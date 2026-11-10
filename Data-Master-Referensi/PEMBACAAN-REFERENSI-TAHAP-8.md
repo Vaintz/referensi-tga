@@ -134,8 +134,8 @@ Status tetap dibaca sebagian. Jangan mengutip rincian isi bab, tabel algoritma, 
 
 ## G. Status setelah tahap 8
 Dari inventarisasi 30 publikasi:
-- Dibaca penuh/isi utama: 25 publikasi.
+- Dibaca penuh/isi utama: 26 publikasi.
 - Dibaca sebagian: 4 publikasi (Wang et al. 2024, Ning & Xie 2024, Faisal et al. 2026, Ghasemi et al. 2026).
-- Belum dibaca sama sekali: 1 publikasi? Tidak ada artikel tambahan yang belum disentuh pada tahap ini; semua empat artikel yang sebelumnya belum dibaca telah diperiksa minimal metadata/abstraknya. Karena itu kategori “belum dibaca” menjadi 0, dengan catatan empat PDF tersebut belum ditelaah utuh.
+- Belum dibaca sama sekali: 0 publikasi.
 
-**Catatan penting:** hitungan status menggunakan kategori “dibaca sebagian” untuk artikel yang baru diperiksa melalui abstrak/metadata. Status keseluruhan adalah 25 penuh, 5 sebagian jika memasukkan Wang et al. sebelumnya serta empat artikel pada tahap ini: jumlah tepat 25 penuh + 5 sebagian = 30. 
+**Catatan penting:** Empat publikasi masih berstatus dibaca sebagian karena PDF lengkap belum berhasil ditelaah. Seluruh 30 entri telah diperiksa minimal pada tingkat metadata/abstrak, tetapi ini tidak sama dengan seluruh PDF telah dibaca penuh. 
