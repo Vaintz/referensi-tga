@@ -67,6 +67,13 @@ Pembacaan dan seleksi awal tersedia pada laporan tahap 5 serta laporan tahap 1â€
 | 10 November 2026 | Marliza2024 | PDF penerbit, 9 halaman | 50 pedestrian; waktu simulasi normal 42 detik dan panik 68 detik. Parameter panik dalam eksperimen paper berbeda dari parameter panik studi Muâ€™arifin yang dikutip. |
 | 10 November 2026 | Muttaqien2024 | PDF penerbit, 10 halaman | Artikel menggunakan metode journal review, bukan eksperimen evakuasi baru. Header PDF menyebut Vol. 2 No. 2, sedangkan metadata OJS menyebut Vol. 3 No. 2. |
 
+
+
+### Pembacaan tahap 6
+Rizian et al. telah dibaca penuh dari PDF penerbit; temuan utama mencakup konstruksi graf kemiripan dokumen dengan TF-IDF, cosine similarity, k-NN, dan GAT. Gao et al. telah dibaca penuh dari PDF versi terbitan; paper ini menggunakan GCN bersama GQN/MDGQN berbasis Q-learning dan reward multi-tujuan pada skenario lalu lintas. Wang et al. masih dibaca sebagian karena PDF penuh IEEE belum dapat diakses.
+
+- [Laporan pembacaan tahap 6](./PEMBACAAN-REFERENSI-TAHAP-6.md).
+
 ## Catatan Pembacaan
 
 - [Laporan pembacaan tahap 1](./PEMBACAAN-REFERENSI-TAHAP-1.md).
@@ -77,7 +84,7 @@ Pembacaan dan seleksi awal tersedia pada laporan tahap 5 serta laporan tahap 1â€
 
 **Status keseluruhan berdasarkan pemeriksaan sampai tahap 5:**
 - Total PDF terinventarisasi di repository: 30.
-- Dibaca penuh/isi utama: 17 publikasi.
-- Dibaca sebagian: 3 publikasi (Rizian et al. 2026; Wang et al. 2024; Gao et al. 2022).
+- Dibaca penuh/isi utama: 19 publikasi.
+- Dibaca sebagian: 1 publikasi (Wang et al. 2024).
 - Belum dibaca: 10 publikasi.
 - Tahap 5 mencakup dua referensi pendukung terkait simulasi evakuasi dan evaluasi jalur.
