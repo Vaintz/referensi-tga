@@ -27,10 +27,10 @@ Belum disusun.
 Belum disusun.
 
 ### 2.3 Teori Graf dan Pemodelan Lingkungan Evakuasi
-Belum disusun.
+Pembacaan awal tersedia pada laporan tahap 2. Sharma et al. membahas adjacency matrix/list/edge list; Jaeger membahas graf beratribut dan multi-relasional; Jiawei et al. membahas agregasi multi-hop pada GraphSAGE++.
 
 ### 2.4 Graph Neural Network
-Belum disusun.
+Pembacaan awal tersedia pada laporan tahap 2. Fathinezhad et al. membahas message passing dan integrasi GNN-DRL; Rizian et al. menjadi contoh aplikasi GAT pada klasifikasi dokumen, tetapi belum dibaca dari PDF lengkap.
 
 ### 2.5 ST-HGAT
 Belum disusun.
@@ -53,12 +53,18 @@ Belum disusun.
 ## Log Verifikasi
 | Tanggal | ID referensi | Bagian yang diperiksa | Hasil/masalah |
 |---|---|---|---|
+| 10 November 2026 | Sharma2025 | PDF penerbit, 7 halaman | PDF mencantumkan 7 penulis; entri BibTeX hanya 4 penulis. |
+| 10 November 2026 | Jaeger2023 | Halaman artikel Frontiers | Entri BibTeX sebaiknya bertipe @article, bukan @misc. |
+| 10 November 2026 | Rizian2026 | Halaman artikel dan issue JUTIF | Sitasi artikel menampilkan Jan 2026, issue menyebut Desember 2025; PDF lengkap belum diperiksa. |
 
 ## Catatan Pembacaan
 
-Laporan pembacaan tahap pertama disimpan pada [PEMBACAAN-REFERENSI-TAHAP-1.md](./PEMBACAAN-REFERENSI-TAHAP-1.md).
+- [Laporan pembacaan tahap 1](./PEMBACAAN-REFERENSI-TAHAP-1.md).
+- [Laporan pembacaan tahap 2](./PEMBACAAN-REFERENSI-TAHAP-2.md).
 
+**Status keseluruhan berdasarkan pemeriksaan sampai tahap 2:**
 - Total PDF terinventarisasi di repository: 30.
-- Dibaca penuh pada tahap pertama: 4 publikasi evakuasi.
-- Terinventarisasi tetapi belum dibaca penuh: 26 publikasi.
-- Status dan prioritas pembacaan lanjutan dicatat pada laporan tahap pertama.
+- Dibaca penuh/isi utama: 8 publikasi.
+- Dibaca sebagian: 1 publikasi (Rizian et al.; halaman artikel/abstrak dan metadata, belum PDF lengkap).
+- Belum dibaca: 21 publikasi.
+- Tahap 2 mencakup 2.3 Teori Graf dan 2.4 Graph Neural Network.
