@@ -94,8 +94,8 @@ Tahap 8 menuntaskan pembacaan penuh Nurcahyo dan Putranto (2026), sedangkan Ning
 
 **Status keseluruhan berdasarkan pemeriksaan sampai tahap 8:**
 - Total PDF terinventarisasi di repository: 30.
-- Dibaca penuh/isi utama: 25 publikasi.
-- Dibaca sebagian: 5 publikasi (Wang et al. 2024; Ning & Xie 2024; Faisal et al. 2026; Ghasemi et al. 2026; dan satu artikel yang masih perlu dikonfirmasi status PDF-nya melalui file sumber).
+- Dibaca penuh/isi utama: 26 publikasi.
+- Dibaca sebagian: 4 publikasi (Wang et al. 2024; Ning & Xie 2024; Faisal et al. 2026; Ghasemi et al. 2026).
 - Belum dibaca sama sekali: 0 publikasi; seluruh referensi telah diperiksa minimal metadata/abstraknya.
 - Empat PDF masih memerlukan pembacaan isi lengkap. Lihat laporan tahap 8.
 - Tahap 7 juga menemukan bahwa DOI Halisah2025 pada library.bib perlu diperbaiki menjadi 10.31605/jcis.v8i2.5120.
