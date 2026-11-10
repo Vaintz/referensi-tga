@@ -79,6 +79,11 @@ Tahap 7 menuntaskan lima publikasi: Umahuk et al. (Dijkstra pada gedung kampus),
 
 - [Laporan pembacaan tahap 7](./PEMBACAAN-REFERENSI-TAHAP-7.md).
 
+### Pembacaan tahap 8
+Tahap 8 menuntaskan pembacaan penuh Nurcahyo dan Putranto (2026), sedangkan Ning dan Xie (2024), Faisal et al. (2026), Ghasemi et al. (2026), serta Wang et al. (2024) masih dibaca sebagian karena yang berhasil ditelaah hanya abstrak/metadata (dan halaman artikel untuk sebagian sumber). Catatan keterbatasan akses dan sintesis tersedia pada laporan tahap 8.
+
+- [Laporan pembacaan tahap 8](./PEMBACAAN-REFERENSI-TAHAP-8.md).
+
 ## Catatan Pembacaan
 
 - [Laporan pembacaan tahap 1](./PEMBACAAN-REFERENSI-TAHAP-1.md).
@@ -87,9 +92,10 @@ Tahap 7 menuntaskan lima publikasi: Umahuk et al. (Dijkstra pada gedung kampus),
 - [Laporan pembacaan tahap 4](./PEMBACAAN-REFERENSI-TAHAP-4.md).
 - [Laporan pembacaan tahap 5](./PEMBACAAN-REFERENSI-TAHAP-5.md).
 
-**Status keseluruhan berdasarkan pemeriksaan sampai tahap 7:**
+**Status keseluruhan berdasarkan pemeriksaan sampai tahap 8:**
 - Total PDF terinventarisasi di repository: 30.
-- Dibaca penuh/isi utama: 24 publikasi.
-- Dibaca sebagian: 1 publikasi (Wang et al. 2024).
-- Belum dibaca: 5 publikasi.
+- Dibaca penuh/isi utama: 25 publikasi.
+- Dibaca sebagian: 5 publikasi (Wang et al. 2024; Ning & Xie 2024; Faisal et al. 2026; Ghasemi et al. 2026; dan satu artikel yang masih perlu dikonfirmasi status PDF-nya melalui file sumber).
+- Belum dibaca sama sekali: 0 publikasi; seluruh referensi telah diperiksa minimal metadata/abstraknya.
+- Empat PDF masih memerlukan pembacaan isi lengkap. Lihat laporan tahap 8.
 - Tahap 7 juga menemukan bahwa DOI Halisah2025 pada library.bib perlu diperbaiki menjadi 10.31605/jcis.v8i2.5120.
