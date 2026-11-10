@@ -36,13 +36,13 @@ Pembacaan tersedia pada laporan tahap 2. Fathinezhad et al. membahas message pas
 Pembacaan tersedia pada laporan tahap 3. Zheng et al. membahas Dynamic GNN dan pembedaan DTDG/CTDG; Corradini et al. meninjau ST-GNN untuk forecasting/classification; Yang dan Peng mengusulkan STC-HGAT untuk rekomendasi sesi. Catatan penting: STC-HGAT bukan otomatis arsitektur ST-HGAT penelitian ini, dan pada paper Yang & Peng istilah ST-HGAT adalah varian ablation tanpa contrastive learning.
 
 ### 2.6 Reinforcement Learning
-Belum disusun.
+Pembacaan tersedia pada laporan tahap 4. Vidyasagar membahas MDP, reward, policy, Bellman, TD, dan Q-learning. Wang et al. (2024) baru ditelaah dari abstrak/metadata penerbit, belum PDF lengkap.
 
 ### 2.7 Proximal Policy Optimization
-Belum disusun.
+Pembacaan tersedia pada laporan tahap 4. Darmawan et al. dan Machmudi et al. memberi contoh penerapan PPO pada domain lain, tetapi keduanya bukan sumber primer yang memperkenalkan PPO. Machmudi et al. memiliki perbedaan angka hasil antara abstrak/kesimpulan dan tabel. Perlu menambahkan sumber primer PPO untuk landasan teori yang kuat.
 
 ### 2.8 Graph Reinforcement Learning
-Belum disusun.
+Pembacaan tersedia pada laporan tahap 4. Darvariu et al. membedakan optimasi struktur graf dan optimasi proses pada graf tetap; Nie et al. mengulas integrasi RL dan graph mining; Gao et al. memberi contoh GCN dengan Q-learning untuk pengambilan keputusan lalu lintas, tetapi PDF lengkap belum dibaca utuh.
 
 ### 2.9 Evaluasi Kinerja Evakuasi
 Belum disusun.
@@ -59,16 +59,22 @@ Belum disusun.
 | 10 November 2026 | Zheng2025 | PDF penerbit, 18 halaman | Survei Dynamic GNN mengecualikan graf spatio-temporal dengan struktur tetap dan atribut node yang berubah. |
 | 10 November 2026 | Corradini2026 | Preprint arXiv v4, bagian definisi/taksonomi/konstruksi graf/diskusi; metadata versi jurnal | Versi jurnal Neural Networks Vol. 195, Article 108269, Maret 2026; teks penuh yang ditelaah adalah preprint v4. |
 | 10 November 2026 | Yang2024 | PDF penerbit, 16 halaman | Model utama bernama STC-HGAT; ST-HGAT adalah varian ablation tanpa contrastive learning. |
+| 10 November 2026 | Wang2024 | Abstrak dan metadata PubMed/IEEE | PDF lengkap belum diperiksa; klaim dibatasi pada abstrak. |
+| 10 November 2026 | Machmudi2025 | PDF JUTIF, 11 halaman | Angka latency dan responsiveness berbeda antara abstrak/kesimpulan dan tabel hasil. |
+| 10 November 2026 | Darvariu2024 | PDF TMLR, 46 halaman | Membahas graph process optimization pada graf tetap, termasuk routing dan navigation. |
+| 10 November 2026 | Nie2023 | Preprint arXiv v4, 22 halaman; metadata versi jurnal | Versi jurnal IEEE TETCI Vol. 7 No. 4, pp. 1065–1082, 2023. |
+| 10 November 2026 | Gao2022 | Abstrak, metode, hasil, tabel dan kesimpulan yang terindeks pada halaman penerbit | PDF lengkap belum diperiksa utuh; status dibaca sebagian. |
 
 ## Catatan Pembacaan
 
 - [Laporan pembacaan tahap 1](./PEMBACAAN-REFERENSI-TAHAP-1.md).
 - [Laporan pembacaan tahap 2](./PEMBACAAN-REFERENSI-TAHAP-2.md).
 - [Laporan pembacaan tahap 3](./PEMBACAAN-REFERENSI-TAHAP-3.md).
+- [Laporan pembacaan tahap 4](./PEMBACAAN-REFERENSI-TAHAP-4.md).
 
-**Status keseluruhan berdasarkan pemeriksaan sampai tahap 3:**
+**Status keseluruhan berdasarkan pemeriksaan sampai tahap 4:**
 - Total PDF terinventarisasi di repository: 30.
-- Dibaca penuh/isi utama: 10 publikasi.
-- Dibaca sebagian: 1 publikasi (Rizian et al.; halaman artikel/abstrak dan metadata, belum PDF lengkap).
-- Belum dibaca: 18 publikasi.
-- Tahap 3 menyelesaikan pembacaan tiga referensi pada subbab 2.5 ST-HGAT.
+- Dibaca penuh/isi utama: 15 publikasi.
+- Dibaca sebagian: 3 publikasi (Rizian et al. 2026; Wang et al. 2024; Gao et al. 2022).
+- Belum dibaca: 12 publikasi.
+- Tahap 4 mencakup 2.6 Reinforcement Learning, 2.7 Proximal Policy Optimization, dan 2.8 Graph Reinforcement Learning.
