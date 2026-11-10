@@ -22,10 +22,16 @@ Referensi dikelompokkan berdasarkan susunan subbab BAB II Tinjauan Pustaka.
 | `2.8-Graph-Reinforcement-Learning` | 2.8 | Integrasi representasi graf dan Reinforcement Learning |
 | `2.9-Evaluasi-Kinerja-Evakuasi` | 2.9 | Metrik dan evaluasi kinerja proses evakuasi |
 | `2.10-Penelitian-Terdahulu` | 2.10 | Studi empiris terdahulu yang relevan dengan penelitian |
+| `Jurnal-Pendukung-Lainnya` | Pendukung | Publikasi tambahan yang relevan tetapi belum ditempatkan pada satu subbab tertentu |
+| `Data-Master-Referensi` | Indeks utama | Inventarisasi metadata, ringkasan, hasil pembacaan, dan catatan halaman seluruh referensi |
+
+## Data Master Referensi
+
+File utama inventarisasi berada di `Data-Master-Referensi/MASTER-REFERENSI.md`. Gunakan file tersebut untuk mencatat metadata, metode, hasil, relevansi subbab, status pembacaan, dan nomor halaman temuan. Perbarui secara bertahap setelah setiap publikasi diperiksa.
 
 ## Cara Menambahkan Referensi
 
-1. Pilih folder berdasarkan subbab yang paling sesuai dengan isi publikasi.
+1. Pilih folder berdasarkan subbab yang paling sesuai dengan isi publikasi. Jika relevansinya masih umum atau lintas-subbbab, gunakan `Jurnal-Pendukung-Lainnya`.
 2. Unggah file PDF ke folder tersebut.
 3. Gunakan nama file yang mudah dikenali, misalnya nama singkat judul atau nama penulis dan tahun.
 4. Jika satu publikasi relevan untuk beberapa subbab, simpan satu salinan utama dan catat relevansi tambahannya agar tidak terjadi duplikasi yang tidak perlu.
