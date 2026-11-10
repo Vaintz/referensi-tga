@@ -90,9 +90,14 @@ Tahap 9 menuntaskan pembacaan Wang et al. (2024) dan Faisal et al. (2026). Ning 
 - [Laporan pembacaan tahap 9](./PEMBACAAN-REFERENSI-TAHAP-9.md).
 
 ### Pembacaan tahap 10
-Tahap 10 menuntaskan pembacaan isi artikel Ning dan Xie (2024) berdasarkan teks lengkap 19 halaman dari salinan daring; metadata dicocokkan dengan penerbit. Ghasemi et al. (2026) masih dibaca sebagian karena yang berhasil diakses hanya laman resmi, abstrak, dan metadata.
+Tahap 10 menuntaskan pembacaan isi artikel Ning dan Xie (2024) berdasarkan teks lengkap 19 halaman dari salinan daring; metadata dicocokkan dengan penerbit. Ghasemi et al. (2026) saat itu masih dibaca sebagian karena yang berhasil diakses hanya laman resmi, abstrak, dan metadata.
 
 - [Laporan pembacaan tahap 10](./PEMBACAAN-REFERENSI-TAHAP-10.md).
+
+### Pembacaan tahap 11
+Tahap 11 menuntaskan pembacaan penuh Ghasemi, Moosavi, dan Ebrahimi (2026) berdasarkan accepted manuscript lengkap. Catatan mencakup MDP, model-free/model-based, taksonomi RL, PPO dan clipped objective, actor-critic, rationale pemilihan policy-gradient, aplikasi PPO termasuk lalu lintas, serta tantangan dan batasan. Naskah masih berstatus article in press sehingga pagination dan detail versi final perlu diverifikasi kembali.
+
+- [Laporan pembacaan tahap 11](./PEMBACAAN-REFERENSI-TAHAP-11.md).
 
 ## Catatan Pembacaan
 
@@ -102,11 +107,11 @@ Tahap 10 menuntaskan pembacaan isi artikel Ning dan Xie (2024) berdasarkan teks 
 - [Laporan pembacaan tahap 4](./PEMBACAAN-REFERENSI-TAHAP-4.md).
 - [Laporan pembacaan tahap 5](./PEMBACAAN-REFERENSI-TAHAP-5.md).
 
-**Status keseluruhan berdasarkan pemeriksaan sampai tahap 10:**
-- Total PDF terinventarisasi di repository: 30.
-- Dibaca penuh/isi utama: 29 publikasi.
-- Dibaca sebagian: 1 publikasi (Ghasemi et al. 2026).
-- Belum dibaca sama sekali: 0 publikasi; seluruh referensi telah diperiksa minimal metadata/abstraknya.
-- Ghasemi et al. masih memerlukan pembacaan isi PDF lengkap. Lihat laporan tahap 10.
+**Status keseluruhan berdasarkan pemeriksaan sampai tahap 11:**
+- Total publikasi terinventarisasi: 30.
+- Dibaca penuh/isi utama: 30 publikasi.
+- Dibaca sebagian: 0 publikasi.
+- Belum dibaca sama sekali: 0 publikasi.
+- Ghasemi et al. (2026) telah dibaca penuh dari accepted manuscript yang dibagikan; verifikasi terhadap Version of Record tetap diperlukan sebelum sitasi final.
 - Catatan metode akses: pembacaan penuh Ning dan Xie didasarkan pada teks lengkap salinan daring, bukan ekstraksi langsung PDF dari repository.
 - Tahap 7 juga menemukan bahwa DOI Halisah2025 pada library.bib perlu diperbaiki menjadi 10.31605/jcis.v8i2.5120.
