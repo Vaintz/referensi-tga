@@ -8,10 +8,11 @@ Repository ini digunakan sebagai arsip referensi ilmiah untuk penyusunan Tugas A
 
 ## Struktur Repository
 
-Referensi dikelompokkan berdasarkan susunan subbab BAB II Tinjauan Pustaka.
+Referensi dikelompokkan berdasarkan kebutuhan penyusunan BAB I dan susunan subbab BAB II Tinjauan Pustaka.
 
-| Folder | Subbab | Fokus Referensi |
+| Folder | Bagian | Fokus Referensi |
 |---|---|---|
+| `Referensi-Latar-Belakang-BAB-I` | BAB I | Referensi untuk membangun latar belakang, urgensi masalah, kondisi atau permasalahan evakuasi, perkembangan pendekatan, research gap, dan justifikasi penelitian |
 | `2.1-Evakuasi-Bencana-pada-Lingkungan-Gedung` | 2.1 | Evakuasi bencana, keselamatan, jalur evakuasi, dan kondisi gedung |
 | `2.2-Simulasi-dan-Pemodelan-Pergerakan-Penghuni` | 2.2 | Simulasi pergerakan, karakteristik, dan perilaku penghuni |
 | `2.3-Teori-Graf-dan-Pemodelan-Lingkungan-Evakuasi` | 2.3 | Teori graf dan representasi lingkungan evakuasi |
@@ -25,16 +26,22 @@ Referensi dikelompokkan berdasarkan susunan subbab BAB II Tinjauan Pustaka.
 | `Jurnal-Pendukung-Lainnya` | Pendukung | Publikasi tambahan yang relevan tetapi belum ditempatkan pada satu subbab tertentu |
 | `Data-Master-Referensi` | Indeks utama | Inventarisasi metadata, ringkasan, hasil pembacaan, dan catatan halaman seluruh referensi |
 
+## Referensi Latar Belakang BAB I
+
+Simpan publikasi yang digunakan untuk mendukung uraian latar belakang pada folder `Referensi-Latar-Belakang-BAB-I`. Pilih referensi yang mendukung klaim mengenai urgensi evakuasi, permasalahan dan tantangan evakuasi gedung, pendekatan penelitian yang telah ada, keterbatasan penelitian terdahulu, serta alasan pemilihan pendekatan yang digunakan.
+
+Satu publikasi dapat relevan untuk BAB I dan BAB II. Hindari mengunggah salinan yang sama berulang kali; catat relevansi bagian lainnya pada Data Master Referensi.
+
 ## Data Master Referensi
 
 File utama inventarisasi berada di `Data-Master-Referensi/MASTER-REFERENSI.md`. Gunakan file tersebut untuk mencatat metadata, metode, hasil, relevansi subbab, status pembacaan, dan nomor halaman temuan. Perbarui secara bertahap setelah setiap publikasi diperiksa.
 
 ## Cara Menambahkan Referensi
 
-1. Pilih folder berdasarkan subbab yang paling sesuai dengan isi publikasi. Jika relevansinya masih umum atau lintas-subbab, gunakan `Jurnal-Pendukung-Lainnya`.
+1. Pilih folder berdasarkan kebutuhan penulisan. Referensi khusus latar belakang masuk ke `Referensi-Latar-Belakang-BAB-I`; referensi teori BAB II masuk ke folder subbab terkait.
 2. Unggah file PDF ke folder tersebut.
 3. Gunakan nama file yang mudah dikenali, misalnya nama singkat judul atau nama penulis dan tahun.
-4. Jika satu publikasi relevan untuk beberapa subbab, simpan satu salinan utama dan catat relevansi tambahannya agar tidak terjadi duplikasi yang tidak perlu.
+4. Jika satu publikasi relevan untuk beberapa bagian, simpan satu salinan utama dan catat relevansi tambahannya agar tidak terjadi duplikasi yang tidak perlu.
 5. Periksa kembali metadata dan isi publikasi sebelum menggunakannya sebagai dasar pernyataan atau sitasi dalam naskah.
 
 ## Informasi Bibliografi
@@ -49,7 +56,7 @@ Untuk setiap publikasi, informasi berikut perlu dicatat saat proses inventarisas
 - DOI atau URL resmi
 - Metode penelitian
 - Hasil utama
-- Relevansi terhadap subbab Tugas Akhir
+- Relevansi terhadap bagian Tugas Akhir
 
 ## Ketentuan Penggunaan
 
