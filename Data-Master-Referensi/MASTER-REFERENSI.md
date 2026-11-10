@@ -53,3 +53,12 @@ Belum disusun.
 ## Log Verifikasi
 | Tanggal | ID referensi | Bagian yang diperiksa | Hasil/masalah |
 |---|---|---|---|
+
+## Catatan Pembacaan
+
+Laporan pembacaan tahap pertama disimpan pada [PEMBACAAN-REFERENSI-TAHAP-1.md](./PEMBACAAN-REFERENSI-TAHAP-1.md).
+
+- Total PDF terinventarisasi di repository: 30.
+- Dibaca penuh pada tahap pertama: 4 publikasi evakuasi.
+- Terinventarisasi tetapi belum dibaca penuh: 26 publikasi.
+- Status dan prioritas pembacaan lanjutan dicatat pada laporan tahap pertama.
