@@ -30,7 +30,7 @@ Pembacaan tersedia pada laporan tahap 1 dan tahap 5. Contoh yang dibaca meliputi
 Pembacaan tersedia pada laporan tahap 2. Sharma et al. membahas adjacency matrix/list/edge list; Jaeger membahas graf beratribut dan multi-relasional; Jiawei et al. membahas agregasi multi-hop pada GraphSAGE++.
 
 ### 2.4 Graph Neural Network
-Pembacaan tersedia pada laporan tahap 2. Fathinezhad et al. membahas message passing dan integrasi GNN-DRL; Rizian et al. menjadi contoh aplikasi GAT pada klasifikasi dokumen, tetapi baru dibaca sebagian dari halaman artikel/abstrak.
+Pembacaan tersedia pada laporan tahap 2. Fathinezhad et al. membahas message passing dan integrasi GNN-DRL; Rizian et al. telah dibaca penuh dan menjadi contoh aplikasi GAT pada klasifikasi teks berbasis graf kemiripan dokumen.
 
 ### 2.5 ST-HGAT
 Pembacaan tersedia pada laporan tahap 3. Zheng et al. membahas Dynamic GNN dan pembedaan DTDG/CTDG; Corradini et al. meninjau ST-GNN untuk forecasting/classification; Yang dan Peng mengusulkan STC-HGAT untuk rekomendasi sesi. Catatan penting: STC-HGAT bukan otomatis arsitektur ST-HGAT penelitian ini, dan pada paper Yang & Peng istilah ST-HGAT adalah varian ablation tanpa contrastive learning.
@@ -42,7 +42,7 @@ Pembacaan tersedia pada laporan tahap 4. Vidyasagar membahas MDP, reward, policy
 Pembacaan tersedia pada laporan tahap 4. Darmawan et al. dan Machmudi et al. memberi contoh penerapan PPO pada domain lain, tetapi keduanya bukan sumber primer yang memperkenalkan PPO. Machmudi et al. memiliki perbedaan angka hasil antara abstrak/kesimpulan dan tabel. Perlu menambahkan sumber primer PPO untuk landasan teori yang kuat.
 
 ### 2.8 Graph Reinforcement Learning
-Pembacaan tersedia pada laporan tahap 4. Darvariu et al. membedakan optimasi struktur graf dan optimasi proses pada graf tetap; Nie et al. mengulas integrasi RL dan graph mining; Gao et al. memberi contoh GCN dengan Q-learning untuk pengambilan keputusan lalu lintas, tetapi PDF lengkap belum dibaca utuh.
+Pembacaan tersedia pada laporan tahap 4. Darvariu et al. membedakan optimasi struktur graf dan optimasi proses pada graf tetap; Nie et al. mengulas integrasi RL dan graph mining; Gao et al. telah dibaca penuh dan memberi contoh GCN dengan Q-learning untuk pengambilan keputusan lalu lintas.
 
 ### 2.9 Evaluasi Kinerja Evakuasi
 Pembacaan awal tersedia pada laporan tahap 5. Marliza dan Ahmad melaporkan waktu evakuasi simulasi normal/panik serta menggunakan kepadatan dan probabilitas transisi. Muttaqien et al. merupakan tinjauan ABM/AnyLogic yang membahas waktu, kepadatan, bottleneck, aksesibilitas, pintu, tangga, dan hambatan. Metrik final dan rumusnya tetap harus ditetapkan pada BAB III.
@@ -74,6 +74,11 @@ Rizian et al. telah dibaca penuh dari PDF penerbit; temuan utama mencakup konstr
 
 - [Laporan pembacaan tahap 6](./PEMBACAAN-REFERENSI-TAHAP-6.md).
 
+### Pembacaan tahap 7
+Tahap 7 menuntaskan lima publikasi: Umahuk et al. (Dijkstra pada gedung kampus), Alrahma et al. (Q-learning untuk rute evakuasi gedung kampus), Halisah et al. (ACO dibanding BFS/DFS), Zhang et al. (GNN untuk rekomendasi rute evakuasi wisata), dan Gebreyesus et al. (ST-GNN + PPO untuk JSSP). Temuan dan catatan kritis tiap artikel dicatat pada laporan tahap 7.
+
+- [Laporan pembacaan tahap 7](./PEMBACAAN-REFERENSI-TAHAP-7.md).
+
 ## Catatan Pembacaan
 
 - [Laporan pembacaan tahap 1](./PEMBACAAN-REFERENSI-TAHAP-1.md).
@@ -82,9 +87,9 @@ Rizian et al. telah dibaca penuh dari PDF penerbit; temuan utama mencakup konstr
 - [Laporan pembacaan tahap 4](./PEMBACAAN-REFERENSI-TAHAP-4.md).
 - [Laporan pembacaan tahap 5](./PEMBACAAN-REFERENSI-TAHAP-5.md).
 
-**Status keseluruhan berdasarkan pemeriksaan sampai tahap 5:**
+**Status keseluruhan berdasarkan pemeriksaan sampai tahap 7:**
 - Total PDF terinventarisasi di repository: 30.
-- Dibaca penuh/isi utama: 19 publikasi.
+- Dibaca penuh/isi utama: 24 publikasi.
 - Dibaca sebagian: 1 publikasi (Wang et al. 2024).
-- Belum dibaca: 10 publikasi.
-- Tahap 5 mencakup dua referensi pendukung terkait simulasi evakuasi dan evaluasi jalur.
+- Belum dibaca: 5 publikasi.
+- Tahap 7 juga menemukan bahwa DOI Halisah2025 pada library.bib perlu diperbaiki menjadi 10.31605/jcis.v8i2.5120.
