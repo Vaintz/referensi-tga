@@ -31,7 +31,7 @@ File utama inventarisasi berada di `Data-Master-Referensi/MASTER-REFERENSI.md`. 
 
 ## Cara Menambahkan Referensi
 
-1. Pilih folder berdasarkan subbab yang paling sesuai dengan isi publikasi. Jika relevansinya masih umum atau lintas-subbbab, gunakan `Jurnal-Pendukung-Lainnya`.
+1. Pilih folder berdasarkan subbab yang paling sesuai dengan isi publikasi. Jika relevansinya masih umum atau lintas-subbab, gunakan `Jurnal-Pendukung-Lainnya`.
 2. Unggah file PDF ke folder tersebut.
 3. Gunakan nama file yang mudah dikenali, misalnya nama singkat judul atau nama penulis dan tahun.
 4. Jika satu publikasi relevan untuk beberapa subbab, simpan satu salinan utama dan catat relevansi tambahannya agar tidak terjadi duplikasi yang tidak perlu.
