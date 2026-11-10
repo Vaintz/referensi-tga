@@ -36,7 +36,7 @@ Pembacaan tersedia pada laporan tahap 2. Fathinezhad et al. membahas message pas
 Pembacaan tersedia pada laporan tahap 3. Zheng et al. membahas Dynamic GNN dan pembedaan DTDG/CTDG; Corradini et al. meninjau ST-GNN untuk forecasting/classification; Yang dan Peng mengusulkan STC-HGAT untuk rekomendasi sesi. Catatan penting: STC-HGAT bukan otomatis arsitektur ST-HGAT penelitian ini, dan pada paper Yang & Peng istilah ST-HGAT adalah varian ablation tanpa contrastive learning.
 
 ### 2.6 Reinforcement Learning
-Pembacaan tersedia pada laporan tahap 4. Vidyasagar membahas MDP, reward, policy, Bellman, TD, dan Q-learning. Wang et al. (2024) baru ditelaah dari abstrak/metadata penerbit, belum PDF lengkap.
+Pembacaan tersedia pada laporan tahap 4 dan tahap 9. Vidyasagar membahas MDP, reward, policy, Bellman, TD, dan Q-learning. Wang et al. (2024) telah dibaca dari isi artikel lengkap; klasifikasi DRL dan pembahasan PPO dicatat pada laporan tahap 9.
 
 ### 2.7 Proximal Policy Optimization
 Pembacaan tersedia pada laporan tahap 4. Darmawan et al. dan Machmudi et al. memberi contoh penerapan PPO pada domain lain, tetapi keduanya bukan sumber primer yang memperkenalkan PPO. Machmudi et al. memiliki perbedaan angka hasil antara abstrak/kesimpulan dan tabel. Perlu menambahkan sumber primer PPO untuk landasan teori yang kuat.
@@ -48,7 +48,7 @@ Pembacaan tersedia pada laporan tahap 4. Darvariu et al. membedakan optimasi str
 Pembacaan awal tersedia pada laporan tahap 5. Marliza dan Ahmad melaporkan waktu evakuasi simulasi normal/panik serta menggunakan kepadatan dan probabilitas transisi. Muttaqien et al. merupakan tinjauan ABM/AnyLogic yang membahas waktu, kepadatan, bottleneck, aksesibilitas, pintu, tangga, dan hambatan. Metrik final dan rumusnya tetap harus ditetapkan pada BAB III.
 
 ### 2.10 Penelitian Terdahulu
-Pembacaan dan seleksi awal tersedia pada laporan tahap 5 serta laporan tahap 1–4. Prioritaskan studi empiris/simulasi yang menyebut objek, metode, skenario, dan hasil terukur. Artikel review dapat dipakai sebagai pendukung, bukan diperlakukan sebagai eksperimen primer.
+Pembacaan dan seleksi awal tersedia pada laporan tahap 5 serta laporan tahap 1–4 dan tahap 7. Prioritaskan studi empiris/simulasi yang menyebut objek, metode, skenario, dan hasil terukur. Artikel review dapat dipakai sebagai pendukung, bukan diperlakukan sebagai eksperimen primer.
 
 ## Log Verifikasi
 | Tanggal | ID referensi | Bagian yang diperiksa | Hasil/masalah |
@@ -80,9 +80,19 @@ Tahap 7 menuntaskan lima publikasi: Umahuk et al. (Dijkstra pada gedung kampus),
 - [Laporan pembacaan tahap 7](./PEMBACAAN-REFERENSI-TAHAP-7.md).
 
 ### Pembacaan tahap 8
-Tahap 8 menuntaskan pembacaan penuh Nurcahyo dan Putranto (2026), sedangkan Ning dan Xie (2024), Faisal et al. (2026), Ghasemi et al. (2026), serta Wang et al. (2024) masih dibaca sebagian karena yang berhasil ditelaah hanya abstrak/metadata (dan halaman artikel untuk sebagian sumber). Catatan keterbatasan akses dan sintesis tersedia pada laporan tahap 8.
+Tahap 8 menuntaskan pembacaan penuh Nurcahyo dan Putranto (2026). Pada tahap tersebut Wang et al. (2024), Ning dan Xie (2024), Faisal et al. (2026), serta Ghasemi et al. (2026) masih berstatus sebagian.
 
 - [Laporan pembacaan tahap 8](./PEMBACAAN-REFERENSI-TAHAP-8.md).
+
+### Pembacaan tahap 9
+Tahap 9 menuntaskan pembacaan Wang et al. (2024) dan Faisal et al. (2026). Ning dan Xie (2024) serta Ghasemi et al. (2026) masih memerlukan pembacaan penuh pada saat laporan dibuat.
+
+- [Laporan pembacaan tahap 9](./PEMBACAAN-REFERENSI-TAHAP-9.md).
+
+### Pembacaan tahap 10
+Tahap 10 menuntaskan pembacaan isi artikel Ning dan Xie (2024) berdasarkan teks lengkap 19 halaman dari salinan daring; metadata dicocokkan dengan penerbit. Ghasemi et al. (2026) masih dibaca sebagian karena yang berhasil diakses hanya laman resmi, abstrak, dan metadata.
+
+- [Laporan pembacaan tahap 10](./PEMBACAAN-REFERENSI-TAHAP-10.md).
 
 ## Catatan Pembacaan
 
@@ -92,10 +102,11 @@ Tahap 8 menuntaskan pembacaan penuh Nurcahyo dan Putranto (2026), sedangkan Ning
 - [Laporan pembacaan tahap 4](./PEMBACAAN-REFERENSI-TAHAP-4.md).
 - [Laporan pembacaan tahap 5](./PEMBACAAN-REFERENSI-TAHAP-5.md).
 
-**Status keseluruhan berdasarkan pemeriksaan sampai tahap 8:**
+**Status keseluruhan berdasarkan pemeriksaan sampai tahap 10:**
 - Total PDF terinventarisasi di repository: 30.
-- Dibaca penuh/isi utama: 26 publikasi.
-- Dibaca sebagian: 4 publikasi (Wang et al. 2024; Ning & Xie 2024; Faisal et al. 2026; Ghasemi et al. 2026).
+- Dibaca penuh/isi utama: 29 publikasi.
+- Dibaca sebagian: 1 publikasi (Ghasemi et al. 2026).
 - Belum dibaca sama sekali: 0 publikasi; seluruh referensi telah diperiksa minimal metadata/abstraknya.
-- Empat PDF masih memerlukan pembacaan isi lengkap. Lihat laporan tahap 8.
+- Ghasemi et al. masih memerlukan pembacaan isi PDF lengkap. Lihat laporan tahap 10.
+- Catatan metode akses: pembacaan penuh Ning dan Xie didasarkan pada teks lengkap salinan daring, bukan ekstraksi langsung PDF dari repository.
 - Tahap 7 juga menemukan bahwa DOI Halisah2025 pada library.bib perlu diperbaiki menjadi 10.31605/jcis.v8i2.5120.
